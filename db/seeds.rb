@@ -1,0 +1,5 @@
+Message.create(message: 'Good Morning!')
+Message.create(message: 'Good Evening!')
+Message.create(message: 'Good afternoon!')
+Message.create(message: 'Good to see you old friend')
+Message.create(message: 'Wassup?')
